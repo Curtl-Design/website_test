@@ -1,0 +1,94 @@
+    body {
+    background: #f5f5f5;
+    color: #202020;
+}
+
+.nav {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 1rem;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+
+.nav-item a:hover {
+    cursor: pointer;
+    color: #005ce6;
+    border: none;
+}
+
+.project-item a   {
+    position: relative;
+    color: #4d4a4a;
+    text-decoration: none;
+    padding: 1rem 4rem;
+}
+
+.nav-item a {
+    position: relative;
+    color: #4d4a4a;
+    text-decoration: none;
+    padding: 1rem 4rem;
+}
+
+.blog-item a {
+    position: relative;
+    color: #4d4a4a;
+    text-decoration: none;
+    padding: 1rem 4rem;
+}
+
+.project-item-1 a {
+    position: relative;
+    color: #4d4a4a;
+    text-decoration: none;
+    padding: 1rem 4rem;
+}
+
+.project-item a:hover {
+    cursor: pointer;
+    color: #ff99e6;
+    border: none;
+}
+
+.project-item-1 a:hover {
+    cursor: pointer;
+    color: #8ADCFF;
+    border: none;
+}
+
+
+.blog-item a:hover {
+    cursor: pointer;
+    color: #4DBD33;
+    border: none;
+}
+
+.nav-item a {
+    color: #797979;
+    text-decoration: none;
+    font-family: "Consolas", "Monaco", "Menlo", monospace;
+    padding: 1rem 2rem;
+}
+
+.top-title-paragraph {
+    color: #363636;
+
+}
+
+.top-title-paragraph h3 {
+    font-family: "Edelsans", sans-serif;
+    font-size: 5rem;
+    margin-bottom: 0;
+}
+
+.top-title-paragraph h5 {
+    margin-top: 1rem;
+    margin-bottom: 0;
+    font-weight: 200;
+}
+
+
